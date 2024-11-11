@@ -1,4 +1,4 @@
-# AFL-AR: AFL Match Chains (2021-2024)
+# AFL-AR: Match Chains (2021-2024)
 
 AFL-AR is a personal project collecting AFL match chain data from 2021 to 2024. This repository includes around 100 CSV files for easy access to recent AFL game data.
 
